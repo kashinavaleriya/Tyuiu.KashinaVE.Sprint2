@@ -25,7 +25,7 @@ namespace Tyuiu.KashinaVe.Sprint2.Task0.V19
             Console.WriteLine("* Написать программу из операций сравнений (==, !=, <, >, <=, >=,         *");
             Console.WriteLine("* последовательность операций не должна нарушаться) и арифметических      *");
             Console.WriteLine("* выражений, которая вернет логическую последовательность(массив):        *");
-            Console.WriteLine("* (True, True, True, True, True, True), при x = 105, y = 177              *");
+            Console.WriteLine("* (True, True, True, True, True, True).                                   *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
