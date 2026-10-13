@@ -24,4 +24,19 @@
     <Project Path="Tyuiu.KashinaVE.Sprint2.Task4.V19.Test/Tyuiu.KashinaVE.Sprint2.Task4.V19.Test.csproj" Id="48477258-b449-415d-82be-4c7d5ee2f018" />
     <Project Path="Tyuiu.KashinaVE.Sprint2.Task4.V19/Tyuiu.KashinaVE.Sprint2.Task4.V19.csproj" Id="6004350e-cb42-4201-a7f3-1e5db0638f13" />
   </Folder>
+  <Folder Name="/Task5/">
+    <Project Path="Tyuiu.KashinaVE.Sprint2.Task5.V1.Lib/Tyuiu.KashinaVE.Sprint2.Task5.V1.Lib.csproj" Id="df86d5a2-88b6-4d4b-900c-ba52aa03173f" />
+    <Project Path="Tyuiu.KashinaVE.Sprint2.Task5.V1.Test/Tyuiu.KashinaVE.Sprint2.Task5.V1.Test.csproj" Id="76e434e1-0a11-4c25-828e-87b3f34cef52" />
+    <Project Path="Tyuiu.KashinaVE.Sprint2.Task5.V1/Tyuiu.KashinaVE.Sprint2.Task5.V1.csproj" Id="8cb0b71b-23c1-4568-b390-cda2d063df18" />
+  </Folder>
+  <Folder Name="/Task6/">
+    <Project Path="Tyuiu.KashinaVE.Sprint2.Task6.V10.Lib/Tyuiu.KashinaVE.Sprint2.Task6.V10.Lib.csproj" Id="c088fb59-726e-492a-814b-aa1f10f100dd" />
+    <Project Path="Tyuiu.KashinaVE.Sprint2.Task6.V10.Test/Tyuiu.KashinaVE.Sprint2.Task6.V10.Test.csproj" Id="e38acc90-1115-4066-b7a8-c2650d9a3843" />
+    <Project Path="Tyuiu.KashinaVE.Sprint2.Task6.V10/Tyuiu.KashinaVE.Sprint2.Task6.V10.csproj" Id="0e464791-256f-4a95-834e-3a286d450214" />
+  </Folder>
+  <Folder Name="/Task7/">
+    <Project Path="Tyuiu.KashinaVE.Sprint2.Task7.V14.Lib/Tyuiu.KashinaVE.Sprint2.Task7.V14.Lib.csproj" Id="efa4a8bb-2aec-4d82-9431-e5b865a63358" />
+    <Project Path="Tyuiu.KashinaVE.Sprint2.Task7.V14.Test/Tyuiu.KashinaVE.Sprint2.Task7.V14.Test.csproj" Id="addd09b7-f406-4b7d-b1b7-c135f3cba572" />
+    <Project Path="Tyuiu.KashinaVE.Sprint2.Task7.V14/Tyuiu.KashinaVE.Sprint2.Task7.V14.csproj" Id="cdb0d345-b982-46b6-a6ba-e083c388c942" />
+  </Folder>
 </Solution>
